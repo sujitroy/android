@@ -13,7 +13,7 @@
 		  
   <remote name="BlissRoms"
           fetch="https://github.com/BlissRoms"
-          revision="o8.1"
+          revision="o8.1" />
 		  
   <project path="bionic" name="android_bionic" remote="omnirom" revision="android-8.1" groups="pdk" />
 
